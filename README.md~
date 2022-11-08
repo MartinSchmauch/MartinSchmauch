@@ -7,7 +7,7 @@
 
 Follow me on LinkedIn:
 <div id="badges">
-  <a href="https://www.linkedin.com/in/martin-schmauch-a80411199/">
+  <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/martin-schmauch-a80411199/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
