@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @MartinSchmauch
 - 👀 I’m interested in Software Engineering and Big Data Processing
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" width="200"/>
-</div>
+#<div id="header" align="center">
+#  <img src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" width="200"/>
+#</div>
 
 Follow me on LinkedIn:
 <div id="badges">
